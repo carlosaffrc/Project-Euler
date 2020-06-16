@@ -18,12 +18,5 @@ function multiplesOf3and5(number) {
   
   console.log(multiplesOf3and5(1000000000));
 
-  // const numArr = Array.from(Array(number), (_, idx) => idx + 1);
-  //   numArr.pop();
-  //   const filterArr = num => (num % 3 === 0 || num % 5 === 0);
-  //   const reduceArr = (acc, cur) => acc + cur;
-
-  //   return numArr.filter(filterArr).reduce(reduceArr);
-
  
   
